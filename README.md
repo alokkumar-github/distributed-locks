@@ -1,4 +1,4 @@
-# distributed-locks
+# distributed-locks java
 
 
 
@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=firwCHbC7-c
 		</dependency> -->
 
 
+https://dzone.com/articles/everything-i-know-about-distributed-locks
+https://dzone.com/articles/concurrency-and-how-to-avoid-it
 
 https://www.javadevjournal.com/spring-boot/spring-boot-scheduler/
 Parallel Scheduling
