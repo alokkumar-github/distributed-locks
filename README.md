@@ -110,8 +110,8 @@ and every client has to call their own purge method with tenant specific propeti
   
 
 ---------------------------------------------------------------------------------------------------------
-multitenant deployment system
-single deployment system
+multitenant deployment system - multi-tenants same pod / mutiple pods
+single deployment system - single tenant/app same pod / mutiple pods
 
 
 
