@@ -1,6 +1,6 @@
 # distributed-locks java
 
-
+org.redisson.api.RLock spring boot
 
 distributed locks in Spring Integration to ensure exclusive access to a shared resource in a cluster.
 https://www.youtube.com/watch?v=firwCHbC7-c
